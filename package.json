@@ -1,0 +1,19 @@
+{
+  "name": "wiserdb",
+  "version": "1.0.0",
+  "description": "Simple DB for Wiser Devices",
+  "main": "wiserdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefersonla/wiserdb.git"
+  },
+  "author": "Jeferson Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefersonla/wiserdb/issues"
+  },
+  "homepage": "https://github.com/jefersonla/wiserdb#readme"
+}
